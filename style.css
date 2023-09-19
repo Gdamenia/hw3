@@ -1,0 +1,41 @@
+h1{
+    color: burlywood; background-color: chartreuse;
+}
+
+table, td, th{
+    border: 3px solid black;
+    border-spacing: 1px;
+}
+
+.dotted {
+    border-style: dotted;
+    background-color: darkorange;
+}
+
+.dashed{
+    border-style: dashed;
+    background-color: chartreuse;
+}
+
+.samec{
+    background-color: darkgoldenrod;
+}
+
+th{
+    background-color: aqua;
+}
+
+video {
+    width: 30%;
+    position: absolute;
+    top: 30%;
+    left: 20%;
+}
+
+.svg{
+    height: 200px;
+    width: 200px;
+    
+
+}
+
